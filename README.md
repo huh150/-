@@ -1,1 +1,4 @@
-![](https://tenor.com/ru/view/cta-gif-27652056)
+<div align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500" height="500" />
+</div>
+
